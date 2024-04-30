@@ -1,2 +1,2 @@
-# faq-accordion
-Created with CodeSandbox
+Build an "Accordion" component.
+

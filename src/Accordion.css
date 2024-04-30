@@ -1,0 +1,14 @@
+h3 {
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 5px;
+}
+
+h3:hover {
+  background-color: lightblue;
+}
+
+section {
+  border: 1px solid gray;
+  margin: 5px;
+}
